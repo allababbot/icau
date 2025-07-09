@@ -2,31 +2,31 @@
 import { Image } from 'astro:assets';
 import H1 from "../components/h1.astro";
 import InfoLayout from "../layouts/InfoLayout.astro";
-import ACGenerator from "../assets/ac-generator.jpg";
-import FluidPropulsion from "../assets/fluid-propulsion.jpg";
-import ElectricMotor from "../assets/electro-magnetic-motor.jpg";
+import ACGenerator from "../assets/a.png";
+import FluidPropulsion from "../assets/b.jpg";
+import ElectricMotor from "../assets/c.jpg";
 
 const projects = [
      {
-          title: "AC Generator",
-          description: "Transform mechanical energy into alternating current, powering the modern electric grid",
+          title: "analisis sistem akuntansi",
+          description: "menganalisa sistem akuntansi seperti baraapp, menemukan bug, membuat fitur baru, kostumisasi",
           image: ACGenerator
      },
      {
-          title: "Fluid Propulsion",
-          description: "Bladeless turbine using fluid dynamics for efficient, low-friction propulsion.",
+          title: "menyusun lap keuangan",
+          description: "belum, tapi ntar pasti bisa. easy belajarnya mah, kan ada aris yang mau ngajarin",
           image: FluidPropulsion
      },
      {
-          title: "Electro-Magnetic Motor",
-          description: "Harness alternating current to produce smooth, efficient rotary motion.",
+          title: "motoran jauh",
+          description: "kemampuan daya tahan tubuh yang telah teruji dengan berbagai macam cuaca termasuk tornado.",
           image: ElectricMotor
      }];
 ---
 
 <InfoLayout>
      <div class="p-4 sm:pt-8 sm:px-12 pb-20 min-h-dvh">
-          <H1> Projects </H1>
+          <H1> Skill </H1>
 
           <ul class="mt-4 sm:mt-12 grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-16 sm:gap-8">
                {projects.map((project) => (

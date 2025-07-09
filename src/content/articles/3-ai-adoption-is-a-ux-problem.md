@@ -1,10 +1,10 @@
 ---
 isDraft: false
-title: AI adoption is a UX problem
-snippet: We have plenty of intelligence. The problem is making it usable
+title: tips memiliki tubuh kuat
+snippet: buat kalian yang tiap hari motoran puluhan kilo termasuk weekend
 slug: ai-adoption-is-a-ux-problem
-author: Nan Yu
-category: AI
+author: icau
+category: tutor
 readingDuration: 1
 pubDate: 2025 4 10
 coverAlt: Tobi Lutke - Shopify CEO - I heard this internal memo of mine is being leaked right now, so here it is
@@ -12,21 +12,41 @@ originalLink: https://thenanyu.com/ux.html
 cover: https://pbs.twimg.com/media/Gn7z7RcbEAAr118?format=jpg&name=medium
 ---
 
-# AI adoption is a UX problem
-> We have plenty of intelligence. The problem is making it usable
+# tips memiliki tubuh kuat
+> buat kalian yang tiap hari motoran puluhan kilo termasuk weekend
 
-Toby Lütke, CEO of Shopify, just made the rounds on Twitter with an internal memo that he sent to his company. In it, he basically tells all of his employees that the time to mass adopt AI in their business is now. No matter which job or role you're in, you need to be using AI all the time, every day, or risk damaging your performance review. If you haven't seen it, read it for yourself here:
+Lo kerja jauh? Pulang kampung tiap weekend naik motor? Selamat, bro. Lo adalah manusia setengah mesin — atau setidaknya lo bakal jadi mesin kalau nggak jaga badan.
 
-
-![Tobi Lutke - Shopify CEO - I heard this internal memo of mine is being leaked right now, so here it is]( https://pbs.twimg.com/media/Gn7z7RcbEAAr118?format=jpg&name=medium)
-
-This echoes what I've heard from other CEOs in and around tech — they recognize the usefulness and productivity gains on offer from AI tools like ChatGPT and Claude. But for some reason, that isn't enough for their employees to actually adopt them at scale. They have to be threatened with bad reviews.
-
-The AI tools that seem to spread by themselves within workforces are things like Cursor for interactive coding and Granola for automated note-taking. These tools are casually dismissed as "GPT wrappers" by some industry commentators — after all, ChatGPT (or Sonnet or Gemini or Llama or Deepseek) is doing all the "real work", right?
-
-People who take this perspective seem to be throwing away all the lessons we've learned about software distribution. It's like they saw Instagram and waived it off as an "ImageMagick wrapper"... or Dropbox as an "rsync wrapper".
-
-Those products won because they made powerful, highly technical tools accessible through thoughtful design. The biggest barrier to mass AI adoption is not capability or intelligence; we have those in spades. <strong> It's UX. </strong>
+Gue di sini bukan ngajarin lo jadi binaragawan. Tapi kalau lo mau tetep bisa ngangkangin motor 70 km PP tiap hari tanpa lutut gemeteran kayak bambu kena angin, nih resep rahasia dari gua, yang katanya diturunkan langsung dari nenek moyangnya Valentino Rossi.
 
 
+![Tobi Lutke - Shopify CEO - I heard this internal memo of mine is being leaked right now, so here it is]( https://cdn.idntimes.com/content-images/post/20211212/1-8741ea7751e1a8c5358a7170d65d6048.jpg)
 
+1. Bangun Pagi, Tapi Bukan Buat Ngopi
+Bangun pagi bukan cuma biar nggak telat kerja. Tapi biar lo sempet stretcing bentar, buka badan, biar engsel lutut lo nggak macet pas ngerem mendadak di tanjakan.
+Nggak usah ribet, 5 menit muter-muter tangan, lompat dikit, jongkok 10 kali — udah lebih sehat dari 80% netizen Twitter.
+
+2. Sarapan = Bahan Bakar
+Motor aja dikasih Pertamax, masa lo sarapan cuma sisa wafer semalem?
+Minimal makan nasi sama telur, atau roti sama selai dan air putih anget.
+Lo bukan robot. Lo butuh bensin juga, apalagi kalau mau ngelawan polusi, angin, dan jalan bolong sepanjang Padang ke Pluto.
+
+3. Latihan Pundak dan Perut, Biar Nggak Jadi Garpu Sendok
+Badan bagian atas itu penting, bro. Kalau lo cuma duduk meringkuk tiap hari di motor, lama-lama lo bukan jadi kurus — lo jadi layangan putus.
+Lakuin push-up 15x, plank 30 detik, sit-up 10x. Setiap hari. Biar lo tahan angin dan tahan mental ngadepin lampu merah 12 menit.
+
+4. Minum Air, Bukan Drama
+Penting banget. Motoran jauh itu bikin lo kekurangan cairan, apalagi kalau helm lo kayak oven listrik.
+Bawa botol minum. Jangan nunggu tenggorokan seret kayak wacana pembangunan. Tiap satu jam, minum.
+
+5. Weekend Bukan Buat Rebahan Total
+Lo mikir: “Akhir pekan, waktunya istirahat total!” Salah, sob.
+Justru weekend lo harus aktif ringan: jalan kaki ke warung, cuci motor sendiri, atau bantu emak angkat galon. Itu bentuk latihan juga. Biar badan lo nggak kaget pas Senin harus touring lagi ke tempat kerja di Narnia.
+
+6. Vitamin C, B, dan M (Mandi)
+Vitamin penting. Tapi jangan lupa mandi juga. Mandi bikin badan seger, ngilangin pegal, dan bikin lo nggak bau apek kayak jok motor kehujanan.
+Kalau bisa, mandi air anget sebelum tidur biar otot lo rileks dan nggak bangun pagi dengan punggung nyeri kayak dihantam dosa masa lalu.
+
+Penutup: Lo Gak Kuat Karena Hebat, Tapi Karena Disiapin
+Motoran jauh tiap hari itu bukan buat yang sembarangan. Tapi lo bisa. Asal lo siapin badan kayak siapin motor: diisi, dirawat, dipanasin.
+Karena percuma motor lo full modif, tapi lo sendiri loyo kayak SIM udah expired.
